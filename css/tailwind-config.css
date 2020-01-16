@@ -1,0 +1,11 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+.h-84 {
+    height: 24rem;
+  }
+
+  
